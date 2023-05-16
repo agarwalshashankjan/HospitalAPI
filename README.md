@@ -142,7 +142,7 @@ To Start the server
 
 Check the console for this, if it says connected, the configuration is complete, otherwise resolve the errors:
 
-````mongodb://0.0.0.0/hospitalapi
+```mongodb://0.0.0.0/hospitalapi
 Server running at http://localhost:8000/
-Successfully connected to the database```
-````
+Successfully connected to the database
+```
